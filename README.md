@@ -2,7 +2,9 @@
 <br/>
 <p align="center">
   <img src="https://github.com/thanhtaivtt/DYoutuber/assets/18238662/d22de4dd-3d52-4c54-88a9-5b8507164fc2">
-  <p align="center">Screen Shoot</p>
+  <p align="center">
+    <a href="https://dyoutuber.com/demo.mp4" target="_bank"><b>Video Demo</b></a>
+  </p>
 </p>
 
 ## Features
